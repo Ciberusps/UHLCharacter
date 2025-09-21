@@ -32,7 +32,6 @@ public class UHLCharacter : ModuleRules
 				"GameplayTasks",
 				"EnhancedInput",
 
-				"UnrealHelperLibrary",
 				"UHLAI",
 				"UHLGAS",
 			}
